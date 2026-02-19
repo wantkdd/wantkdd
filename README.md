@@ -4,8 +4,7 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wantkdd&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/wantkdd" width="600" height="300" />
   </a>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=wantkdd&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wantkdd&layout=compact&theme=tokyonight" />
 </div>
+
+## GitHub Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wantkdd&theme=dracula" />
